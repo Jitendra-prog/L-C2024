@@ -1,0 +1,23 @@
+Problem domain name:
+1. b2bl_InvoiceDetailController
+2. Intg_InvoiceDetail_Response
+3. Intg_API_InvoiceDetails
+4. Intg_API_InvoiceDetails_SAP_FI
+5. Intg_API_InvoiceDetails_SAP
+6. Intg_API_InvoiceDetails_SF
+7. FI_Invoice__c
+8. AB_Catalog
+9. AB_Cart
+10. AB_Product
+
+Solution domain name:
+1. InvoiceDetailService
+2. getInvoiceDetail
+3. getInvoiceRecord
+4. mapFieldsForResponse
+5. prepareHeaderDetails
+6. getFormattedDate
+7. prepareLineItemDetails
+8. makeCallout
+9. getCommunityName
+10. getInvoiceDiscounts
